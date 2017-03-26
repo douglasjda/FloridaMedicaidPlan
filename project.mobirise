@@ -741,7 +741,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@medicaidicp.com<br>\nPhone: 1-800-396-5145<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>Platinum Benefit Services</li><li>Medicaid ICP</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.platben.com\">Platinum Benefit Services</a></li><li><a href=\"http://www.medicaidicp.com\">Medicaid ICP</a></li></ul>",
           "_styles": {
             "UL": {
               "color": "#3d8eb9",
@@ -962,7 +962,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>You have worked your entire life saving for retirement. You even had the desire to leave a legacy for you children and grandchildren. All these ambitions, though, quickly seem in jeopardy. The math is not that difficult to calculate just how many months your savings will be able to cover the cost of Long Term Nursing Care. You recall the deductions for Medicare and Medicaid, but aren't really sure what or if either will cover Long Term Nursing Care.</blockquote>"
+          "text": "<blockquote>You have worked your entire life, all along, &nbsp;saving for retirement. You had the desire to leave a legacy for your children and grandchildren. Now, all these ambitions quickly seem in jeopardy. The math is not that difficult to calculate just how many months your savings will be able to cover the cost of Long Term Nursing Care. You recall the deductions for Medicare and Medicaid, but aren't really sure if either will cover Long Term Nursing Care.</blockquote>"
         },
         {
           "_tags": [
@@ -980,9 +980,9 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>Thousands of baby boomers are facing this dilema on a daily basis.They worked their entire adulthood living a moderate life, paying their fair share of taxes and saving what little was left over for the golden years. But, what so many baby boomers are finding out, these best laid plans for the golden years, those hopes of leaving a nest egg to the children or grandchildren, can quickly perish if the need arises for Long Term Nursing Home Care.</p>",
-          "text2": "<p>Most folks are aware of the pay period deductions for Medicaire and Medicaid. But, when the time comes to utilize the benefits they are entitled to receive to cover the cost of Long Term Care, they are either unaware that Medicaid will cover most, if not all, of the cost of Nursing Home Care or they simply believe they will not qualify. The good news, anyone can qualify for Medicaid Long Term Nursing Home Care regardless of the amount of assets owned or the amount of income received.</p>",
-          "text3": "<p>Fortunatlely, Florida has specific Medicaid guidelines that provide for the exemption of certain types of assets, guidelines that allow asset exchanges for conversion to Non-countable assets according to the Medicaid Eligibility Asset limits, as well as certain types of allowable transfers. With a Qualified Attorney prepared Asset protection plan along with competent Medicaid Application preparatin and filing, anyonecan truly qualify for Medicaid Long Term Nursing Home Benefits.&nbsp;</p>"
+          "text1": "<p>Thousands of baby boomers are facing this dilema on a daily basis.They worked their entire adult life living moderately, paying their fair share of taxes and saving what little was left over for the golden years. </p><p><br></p><p>But, what so many baby boomers are finding out, those best laid plans for the golden years, those hopes of leaving a nest egg to the children or grandchildren, can quickly perish if the need arises for Long Term Nursing Home Care.</p><p><br></p><p>Most folks remember the pay period deductions for Medicare and Medicaid.</p><p><br></p>",
+          "text2": "<p>But, when the time comes to utilize&nbsp;</p><p>these benefits they are entitled to ,they&nbsp;</p><p>are either unaware that Medicaid will cover most, if not all, of the cost of Nursing Home Care or they simply believe they will not qualify. </p><p><br></p><p>Fortunatlely for those folks living here in Florida, the state of Florida Medicaid guidelines have provided for the exemption of certain types of assets. The guidelines also allow \"Countable\"&nbsp;</p><p>assets to be exchanged for \"Non-countable\" assets according to the Medicaid Eligibility Asset limits. There are also certain types of allowable transfers.</p><p><br></p>",
+          "text3": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">The good news is, anyone can qualify for Medicaid Nursing Home Care Benefits regardless of the amount of assets owned or the amount of income received with the correct strategies planning, implementation and processing.</span><br></p><p><br></p><p>With a Qualified Attorney prepared Asset protection plan along with competent Medicaid Application preparatin and filing, anyone can truly qualify for Medicaid Long Term Nursing Home Benefits.&nbsp;</p><p><br></p>"
         },
         {
           "_tags": [
@@ -1080,7 +1080,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@medicaidicp.com<br>\nPhone: 1-800-396-5145<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>Platinum Benefit Services</li><li>Medicaid ICP</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.platben.com\">Platinum Benefit Services</a></li><li><a href=\"http://www.medicaidicp.com\">Medicaid ICP</a></li></ul>",
           "_styles": {
             "UL": {
               "color": "#3d8eb9",
@@ -1302,7 +1302,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@medicaidicp.com<br>\nPhone: 1-800-396-5145<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>Platinum Benefit Services</li><li>Medicaid ICP</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.platben.com\">Platinum Benefit Services</a></li><li><a href=\"http://www.medicaidicp.com\">Medicaid ICP</a></li></ul>",
           "_styles": {
             "UL": {
               "color": "#3d8eb9",
@@ -1565,9 +1565,9 @@
               "newWindow": false
             }
           },
-          "title1": "FILE APPLICATION WITH DCF",
+          "title1": "File Application with DCF",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "The application has been prepared, <br>thoroughly reviewed and is submitted to the <br>Departmentof Children and Families.",
           "button1": "<a data-app-btn=\"true\" href=\"Contact_Us.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">START TODAY</a>",
           "media2": {
             "iconFont": {
@@ -1582,9 +1582,9 @@
               "newWindow": false
             }
           },
-          "title2": "APPROX. 45 DAYS",
+          "title2": "Approximately 45 Days",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.<br><br>",
+          "caption2": "Our average \"Approval\" time is<br>45 days from submission.<br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"Contact_Us.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">START TODAY</a>",
           "media3": {
             "iconFont": {
@@ -1599,9 +1599,9 @@
               "newWindow": false
             }
           },
-          "title3": "MEDICAID APPROVAL",
+          "title3": "MEDICAID \"Approval\"",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Once \"Approved\", Medicaid will cover <br>ALL expenses for Long Term Care <br>above the applicant's monthly income.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"Contact_Us.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">START TODAY</a>",
           "media4": {
             "iconFont": {
@@ -1660,8 +1660,8 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text1": "<p>Once the Asset Protection Plan has been implemented and the application has been filed, \"Approval\" is anticipated around day 45, give or take. During this period, the applicant's legal representative will be kept aprised of the filing status, any additional requests for documentation, as well as, the amount of monthly income remaining after the Asset Protection Plan. This amount, the \"Patient Responsibility\" will be paid to the nursing facility each month going forward.</p><p><br></p>",
+          "text2": "<p>Once the \"Approval\" is attained, Medicaid will cover the cost of care above the \"Patient Responsibility\" going back retroacitvely to the first of the month for the month the applicant became eligible.&nbsp;</p><p><br></p><p>The Key to attaining the \"Approval\" status lies in the process. Our process has been proven effective for over 20 years and 6,000 applications.</p>"
         },
         {
           "_tags": [
@@ -1755,7 +1755,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@medicaidicp.com<br>\nPhone: 1-800-396-5145<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>Platinum Benefit Services</li><li>Medicaid ICP</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.platben.com\">Platinum Benefit Services</a></li><li><a href=\"http://www.medicaidicp.com\">Medicaid ICP</a></li></ul>",
           "_styles": {
             "UL": {
               "color": "#3d8eb9",
@@ -2009,7 +2009,7 @@
           },
           "title1": "Verify All Assets",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "At this stage, the Application Processor has requested verifications of all assets and incomes from the various financial institutions.<br><br>&nbsp;",
+          "caption1": "At this stage, the Application Processor has <br>requested verifications of all assets and incomes <br>from the various financial institutions.<br><br><br>&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"Contact_Us.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">START TODAY</a>",
           "media2": {
             "iconFont": {
@@ -2026,9 +2026,26 @@
           },
           "title2": "Prepare Implementation Plan",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Next, the Application ProceesingTeam has worked in coordination with the Asset Protection Attorney to prepare the Asset protection plsnimplemetation.<br><br><br>",
+          "caption2": "Next, the Application Proceesing Team <br>has worked in coordination with the <br>Asset Protection Attorney to prepare the <br>Asset Protection Implemetation Plan.<br><br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"Contact_Us.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">START TODAY</a>",
           "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title3": "Plan Implementation",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "The Application Processor has assisted with implemetation of the Asset Protection Plan, organized all the final documents including: asset and income verifications, legal documents, DCF forms and the <br>Medicaid Application. &nbsp;<br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"Contact_Us.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">START TODAY</a>",
+          "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
@@ -2041,26 +2058,9 @@
               "newWindow": false
             }
           },
-          "title3": "File Application",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "The Application Processor has organized all the final documents including asset and income verifications, legal documents, DCF forms and the Medicaid Application. &nbsp;The Applicationis filed.<br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"Contact_Us.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">START TODAY</a>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "like",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "#fff",
-              "newWindow": false
-            }
-          },
-          "title4": "Gain \"APPROVAL\"",
+          "title4": "File Application",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "The Application Processing Team will respond to any inquiries from DCF, challenge any incorrect requests, provide additional information if needed, and consistently track and promote progressuntil the \"APPROVAL\" status is attained.",
+          "caption4": "The Application is submitted to <br>Department of Children and Families <br>for \"Approval\".&nbsp;<br><br><br><br>",
           "button4": "<a data-app-btn=\"true\" href=\"Contact_Us.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">START TODAY</a>",
           "media5": {
             "iconFont": {
@@ -2137,7 +2137,7 @@
             ".btn": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "18px"
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -2165,7 +2165,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://platben.com/\" data-toolbar=\"-mbrBtnMove\">VIEW <br>Platinum Benefit Services, Inc. <br>Website</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://platben.com/\" data-toolbar=\"-mbrBtnMove\">VIEW <br>PLATINUM BENEFIT SERVICES, INC. <br>WEBSITE</a>",
           "title": "PLATINUM BENEFIT SERVICES, INC.",
           "text": "Florida's Leading Medicaid Application Processing Firm."
         },
@@ -2380,7 +2380,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@medicaidicp.com<br>\nPhone: 1-800-396-5145<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>Platinum Benefit Services</li><li>Medicaid ICP</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.platben.com\">Platinum Benefit Services</a></li><li><a href=\"http://www.medicaidicp.com\">Medicaid ICP</a></li></ul>",
           "_styles": {
             "UL": {
               "color": "#3d8eb9",
@@ -2966,7 +2966,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@medicaidicp.com<br>\nPhone: 1-800-396-5145<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>Platinum Benefit Services</li><li>Medicaid ICP</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.platben.com\">Platinum Benefit Services</a></li><li><a href=\"http://www.medicaidicp.com\">Medicaid ICP</a></li></ul>",
           "_styles": {
             "UL": {
               "color": "#3d8eb9",
@@ -3457,7 +3457,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@medicaidicp.com<br>\nPhone: 1-800-396-5145<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>Platinum Benefit Services</li><li>Medicaid ICP</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.platben.com\">Platinum Benefit Services</a></li><li><a href=\"http://www.medicaidicp.com\">Medicaid ICP</a></li></ul>",
           "_styles": {
             "UL": {
               "color": "#3d8eb9",
