@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Application_Processing.html",
+    "currentPage": "Medicaid_Approval.html",
     "name": "Florida Medicaid Plan",
     "theme": {
       "name": "mobirise3",
@@ -944,7 +944,7 @@
             "showMeta": true
           },
           "title": "YOU WORKED, YOU SAVED.&nbsp;",
-          "meta": "By Antony Turbeville posted March 23, 2017"
+          "meta": ""
         },
         {
           "_tags": [
@@ -980,7 +980,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>Thousands of baby boomers are facing this dilema on a daily basis.They worked their entire adult life living moderately, paying their fair share of taxes and saving what little was left over for the golden years. </p><p><br></p><p>But, what so many baby boomers are finding out, those best laid plans for the golden years, those hopes of leaving a nest egg to the children or grandchildren, can quickly perish if the need arises for Long Term Nursing Home Care.</p><p><br></p><p>Most folks remember the pay period deductions for Medicare and Medicaid.</p><p><br></p>",
+          "text1": "<p>Thousands of baby boomers are facing this dilema on a daily basis. They worked their entire adult life living moderately, paying their fair share of taxes and saving what little was left over for the golden years. </p><p><br></p><p>But, what so many baby boomers are finding out, those best laid plans for the golden years, those hopes of leaving a nest egg to the children or grandchildren, can quickly perish if the need arises for Long Term Nursing Home Care.</p><p><br></p><p>Most folks remember the pay period deductions for Medicare and Medicaid.</p><p><br></p>",
           "text2": "<p>But, when the time comes to utilize&nbsp;</p><p>these benefits they are entitled to ,they&nbsp;</p><p>are either unaware that Medicaid will cover most, if not all, of the cost of Nursing Home Care or they simply believe they will not qualify. </p><p><br></p><p>Fortunatlely for those folks living here in Florida, the state of Florida Medicaid guidelines have provided for the exemption of certain types of assets. The guidelines also allow \"Countable\"&nbsp;</p><p>assets to be exchanged for \"Non-countable\" assets according to the Medicaid Eligibility Asset limits. There are also certain types of allowable transfers.</p><p><br></p>",
           "text3": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">The good news is, anyone can qualify for Medicaid Nursing Home Care Benefits regardless of the amount of assets owned or the amount of income received with the correct strategies planning, implementation and processing.</span><br></p><p><br></p><p>With a Qualified Attorney prepared Asset protection plan along with competent Medicaid Application preparatin and filing, anyone can truly qualify for Medicaid Long Term Nursing Home Benefits.&nbsp;</p><p><br></p>"
         },
@@ -1507,7 +1507,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<p>ATTAINING MEDICAID APPROVAL</p>",
+          "title": "<p>ATTAINING MEDICAID \"APPROVAL\"</p>",
           "meta": ""
         },
         {
@@ -1525,6 +1525,9 @@
             },
             ".btn": {
               "font-size": "18px"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_name": "features7",
@@ -1556,8 +1559,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "phone",
-              "family": "et-line",
+              "name": "to-local-drive",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "",
               "size": 0,
@@ -1573,7 +1576,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "edit",
+              "name": "calendar",
               "family": "et-line",
               "active": true,
               "link": "",
@@ -1590,8 +1593,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "briefcase",
-              "family": "et-line",
+              "name": "like",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "",
               "size": 0,
@@ -1949,7 +1952,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "THE KEY TO SUCCESS IS IN THE PROCESS",
+          "title": "THE KEY TO SUCCESS IS IN THE \"PROCESS\"",
           "meta": ""
         },
         {
@@ -3158,7 +3161,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "THE PLAN CREATION PROCESS",
+          "title": "THE PLAN CREATION \"PROCESS\"",
           "meta": ""
         },
         {
@@ -3203,7 +3206,7 @@
           },
           "title1": "Meet with Asset Protection Attorney",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "The Asset Protection Attorney will recommend appropriate available strategies to preserve the assets and/or income of the applicant.<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"Contact_Us.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">START TODAY</a>",
           "media2": {
             "image": {
@@ -3219,7 +3222,7 @@
           },
           "title2": "Application Processor Verifies Assets and Income",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "The Medicaid Application Processor will verify all asset values and income amounts. The due diligence during this phase is paramount to gaining expedited \"Approval\" status.",
           "button2": "<a data-app-btn=\"true\" href=\"Contact_Us.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">START TODAY</a>",
           "media3": {
             "image": {
@@ -3235,7 +3238,7 @@
           },
           "title3": "Attorney and Processor Colaberate",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.<br>",
+          "caption3": "The Asset Protection Attorney will communicate the appropriate protection strategies to the processor. With all Assets and income amounts verified, the Final Protection Planning is begun.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"Contact_Us.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">START TODAY</a>",
           "media4": {
             "image": {
@@ -3251,7 +3254,7 @@
           },
           "title4": "Protection Plan is Finalized",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "The Final Protection Plan is formulated, reviewed and approved by the Asset Protection Attorney and provided to the applicant's legal representative.<br><br>",
           "button4": "<a data-app-btn=\"true\" href=\"Contact_Us.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">START TODAY</a>",
           "media5": {
             "image": {
@@ -3280,6 +3283,9 @@
           "_styles": {
             ".btn": {
               "font-size": "18px"
+            },
+            "P": {
+              "text-align": "left"
             }
           }
         },
@@ -3350,7 +3356,7 @@
               "size": 0
             }
           },
-          "title": "THE KEY TO SUCCESS IS IN THE PROCESS&nbsp;",
+          "title": "THE KEY TO SUCCESS IS IN THE \"PROCESS\"&nbsp;",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },

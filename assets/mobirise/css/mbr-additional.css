@@ -875,6 +875,9 @@ h6,
 #features7-13 .btn {
   font-size: 18px;
 }
+#features7-13 P {
+  text-align: center;
+}
 #buttons1-1p .btn {
   font-size: 18px;
 }
@@ -1224,6 +1227,9 @@ h6,
 }
 #features3-1i .btn {
   font-size: 18px;
+}
+#features3-1i P {
+  text-align: left;
 }
 #content2-20 BLOCKQUOTE {
   font-size: 20px;
