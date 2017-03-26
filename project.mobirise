@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Contact_Us.html",
     "name": "Florida Medicaid Plan",
     "theme": {
       "name": "mobirise3",
@@ -125,8 +125,8 @@
           },
           "_anchor": "features6-2",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -340,7 +340,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME PAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Strategies.html\">ASSET PROTECTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Plan.html\">PROTECTION PLAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Application_Processing.html\">APPLICATION PROCESSING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Medicaid_Approval.html\">MEDICAID APPROVAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>1-800-396-5145</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact_Us.html\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>Start Today</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME PAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Strategies.html\">ASSET PROTECTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Plan.html\">PROTECTION PLAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Application_Processing.html\">APPLICATION PROCESSING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Medicaid_Approval.html\">MEDICAID APPROVAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact_Us.html\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>Start Today</a></li>"
         },
         {
           "_inherit": "testimonials1",
@@ -545,8 +545,8 @@
           "_anchor": "features4-n",
           "_params": {
             "iconsBgColor": "#f2f2f2",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -858,7 +858,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME PAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Strategies.html\">ASSET PROTECTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Plan.html\">PROTECTION PLAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Application_Processing.html\">APPLICATION PROCESSING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Medicaid_Approval.html\">MEDICAID APPROVAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>1-800-396-5145</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact_Us.html\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>Start Today</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME PAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Strategies.html\">ASSET PROTECTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Plan.html\">PROTECTION PLAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Application_Processing.html\">APPLICATION PROCESSING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Medicaid_Approval.html\">MEDICAID APPROVAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact_Us.html\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>Start Today</a></li>"
         },
         {
           "_styles": {
@@ -1182,7 +1182,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME PAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Strategies.html\">ASSET PROTECTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Plan.html\">PROTECTION PLAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Application_Processing.html\">APPLICATION PROCESSING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Medicaid_Approval.html\">MEDICAID APPROVAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>1-800-396-5145</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact_Us.html\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>Start Today</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME PAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Strategies.html\">ASSET PROTECTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Plan.html\">PROTECTION PLAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Application_Processing.html\">APPLICATION PROCESSING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Medicaid_Approval.html\">MEDICAID APPROVAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact_Us.html\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>Start Today</a></li>"
         },
         {
           "_tags": [
@@ -1194,8 +1194,8 @@
               "color": "#232323"
             },
             ".mbr-section-title": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             },
             ".btn": {
               "font-size": "18px"
@@ -1217,7 +1217,7 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "Start Your Asset Protection Today!",
+          "title": "Start Your Asset Protection Today!<br>Call 1-800-396-5145<br>or&nbsp;<br>Complete the Form and Click",
           "subtitle": "Your information will not be sold or re-distribued.",
           "form": {
             "action": "question@medicaidicp.com",
@@ -1394,7 +1394,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME PAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Strategies.html\">ASSET PROTECTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Plan.html\">PROTECTION PLAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Application_Processing.html\">APPLICATION PROCESSING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Medicaid_Approval.html\">MEDICAID APPROVAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>1-800-396-5145</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact_Us.html\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>Start Today</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME PAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Strategies.html\">ASSET PROTECTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Plan.html\">PROTECTION PLAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Application_Processing.html\">APPLICATION PROCESSING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Medicaid_Approval.html\">MEDICAID APPROVAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact_Us.html\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>Start Today</a></li>"
         },
         {
           "_styles": {
@@ -1828,7 +1828,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME PAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Strategies.html\">ASSET PROTECTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Plan.html\">PROTECTION PLAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Application_Processing.html\">APPLICATION PROCESSING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Medicaid_Approval.html\">MEDICAID APPROVAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>1-800-396-5145</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact_Us.html\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>Start Today</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME PAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Strategies.html\">ASSET PROTECTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Plan.html\">PROTECTION PLAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Application_Processing.html\">APPLICATION PROCESSING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Medicaid_Approval.html\">MEDICAID APPROVAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact_Us.html\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>Start Today</a></li>"
         },
         {
           "_styles": {
@@ -2437,7 +2437,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME PAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Strategies.html\">ASSET PROTECTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Plan.html\">PROTECTION PLAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Application_Processing.html\">APPLICATION PROCESSING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Medicaid_Approval.html\">MEDICAID APPROVAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>1-800-396-5145</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact_Us.html\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>Start Today</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME PAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Strategies.html\">ASSET PROTECTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Plan.html\">PROTECTION PLAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Application_Processing.html\">APPLICATION PROCESSING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Medicaid_Approval.html\">MEDICAID APPROVAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact_Us.html\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>Start Today</a></li>"
         },
         {
           "_styles": {
@@ -3010,7 +3010,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME PAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Strategies.html\">ASSET PROTECTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Plan.html\">PROTECTION PLAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Application_Processing.html\">APPLICATION PROCESSING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Medicaid_Approval.html\">MEDICAID APPROVAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>1-800-396-5145</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact_Us.html\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>Start Today</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME PAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Strategies.html\">ASSET PROTECTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Asset_Protection_Plan.html\">PROTECTION PLAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Application_Processing.html\">APPLICATION PROCESSING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Medicaid_Approval.html\">MEDICAID APPROVAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact_Us.html\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>Start Today</a></li>"
         },
         {
           "_styles": {
