@@ -479,7 +479,7 @@
           },
           "title": "READ MORE TESTIMONIALS",
           "text": "What more than 6,000 customers are saying about our services.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Testimonials.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_styles": {
             "H3": {
               "font-family": "'Open Sans Condensed', sans-serif",
@@ -700,7 +700,7 @@
           "title": "SUBSCRIBE TO OUR NEWLETTER",
           "subtitle": "Medicaid Updates",
           "form": {
-            "action": "info@floridamedicaidplan.com",
+            "action": "info@medicaidicp.com",
             "alerts": {
               "success": "You will be added to our Newsletter List!"
             },
@@ -737,8 +737,20 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@floridamedicaidplan.com<br>\nPhone: 1-800-396-5145<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>"
+          "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@medicaidicp.com<br>\nPhone: 1-800-396-5145<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>Platinum Benefit Services</li><li>Medicaid ICP</li></ul>",
+          "_styles": {
+            "UL": {
+              "color": "#3d8eb9",
+              "font-size": "18px"
+            },
+            "STRONG": {
+              "font-size": "25px"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          }
         }
       ]
     },
@@ -1063,8 +1075,20 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@floridamedicaidplan.com<br>\nPhone: 1-800-396-5145<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>"
+          "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@medicaidicp.com<br>\nPhone: 1-800-396-5145<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>Platinum Benefit Services</li><li>Medicaid ICP</li></ul>",
+          "_styles": {
+            "UL": {
+              "color": "#3d8eb9",
+              "font-size": "18px"
+            },
+            "STRONG": {
+              "font-size": "25px"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          }
         }
       ]
     },
@@ -1273,8 +1297,20 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@floridamedicaidplan.com<br>\nPhone: 1-800-396-5145<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>"
+          "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@medicaidicp.com<br>\nPhone: 1-800-396-5145<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>Platinum Benefit Services</li><li>Medicaid ICP</li></ul>",
+          "_styles": {
+            "UL": {
+              "color": "#3d8eb9",
+              "font-size": "18px"
+            },
+            "STRONG": {
+              "font-size": "25px"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          }
         }
       ]
     },
@@ -1707,8 +1743,20 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@floridamedicaidplan.com<br>\nPhone: 1-800-396-5145<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>"
+          "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@medicaidicp.com<br>\nPhone: 1-800-396-5145<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>Platinum Benefit Services</li><li>Medicaid ICP</li></ul>",
+          "_styles": {
+            "UL": {
+              "color": "#3d8eb9",
+              "font-size": "18px"
+            },
+            "STRONG": {
+              "font-size": "25px"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          }
         }
       ]
     },
@@ -2316,8 +2364,20 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@floridamedicaidplan.com<br>\nPhone: 1-800-396-5145<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>"
+          "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@medicaidicp.com<br>\nPhone: 1-800-396-5145<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>Platinum Benefit Services</li><li>Medicaid ICP</li></ul>",
+          "_styles": {
+            "UL": {
+              "color": "#3d8eb9",
+              "font-size": "18px"
+            },
+            "STRONG": {
+              "font-size": "25px"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          }
         }
       ]
     },
@@ -2889,8 +2949,20 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@floridamedicaidplan.com<br>\nPhone: 1-800-396-5145<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>"
+          "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@medicaidicp.com<br>\nPhone: 1-800-396-5145<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>Platinum Benefit Services</li><li>Medicaid ICP</li></ul>",
+          "_styles": {
+            "UL": {
+              "color": "#3d8eb9",
+              "font-size": "18px"
+            },
+            "STRONG": {
+              "font-size": "25px"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          }
         }
       ]
     },
@@ -3357,8 +3429,20 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@floridamedicaidplan.com<br>\nPhone: 1-800-396-5145<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>"
+          "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@medicaidicp.com<br>\nPhone: 1-800-396-5145<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>Platinum Benefit Services</li><li>Medicaid ICP</li></ul>",
+          "_styles": {
+            "UL": {
+              "color": "#3d8eb9",
+              "font-size": "18px"
+            },
+            "STRONG": {
+              "font-size": "25px"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          }
         }
       ]
     }
