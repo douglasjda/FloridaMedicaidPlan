@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Application_Processing.html",
     "name": "Florida Medicaid Plan",
     "theme": {
       "name": "mobirise3",
@@ -105,7 +105,7 @@
             }
           },
           "title": "Florida Medicaid Plan",
-          "text": "Asset Protection Strategies<br>Asset Protection Plan Implemetation<br>Medicaid Processing and Filing",
+          "text": "Nursing Home Medicaid Benefits<br>Asset Protection Strategies<br>Asset Protection Plan Implemetation<br>Medicaid Processing and Filing",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Contact_Us.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-profile-female mbr-iconfont mbr-iconfont-btn\"></span>FIND OUT MORE</a>"
         },
         {
@@ -162,7 +162,7 @@
           },
           "title1": "Asset Protection Strategies",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Explanation of appropriate, legal strategies available to protect assets and Qualify for Florida Nursing Home Benefits.&nbsp;",
+          "caption1": "Asset Protection Strategies available <br>to preserve assets and Qualify for <br>Florida Nursing Home Benefits.<br>&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"Asset_Protection_Strategies.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -179,7 +179,7 @@
           },
           "title2": "Aset Protection Plan",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Explanation of the tailor made Asset Protection Plan along with the step-by-step implemetation process provided by the Florida Medicaid Plan Team.&nbsp;",
+          "caption2": "Tailor made Asset Protection Plan along with the <br>step-by-step implemetation process <br>provided by the Florida Medicaid Plan Team.&nbsp;<br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"Asset_Protection_Plan.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -196,7 +196,7 @@
           },
           "title3": "Medicaid Application Filing",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "The leading Florida Nursing Home Medicaid Application Processing Team provides 100% Money Back Guarantee that \"Approval\" is attained.&nbsp;",
+          "caption3": "Florida Nursing Home Medicaid <br>Application Processing Team provides <br>100% Money Back Guarantee that <br>\"Approval\" is attained.&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"Application_Processing.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -213,7 +213,7 @@
           },
           "title4": "Medicaid Approval",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Application progressive monitoring to assure timely application Approval. Includes DCF updates and responses, until th \"Approval\" is attained.",
+          "caption4": "Application progress monitoring to ensure timely application Approval. Includes DCF updates and responses, until the \"Approval\" is attained.<br><br>",
           "button4": "<a data-app-btn=\"true\" href=\"Medicaid_Approval.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -392,7 +392,7 @@
               "authorBio": "E. Peavey Ft. Meade, FL"
             },
             {
-              "text": "<p>latinum was very helpful and efficient while going though the process of enrolling my mother in Medicaid. Melissa and Lori were never too busy to answer questions, return my phone calls or make phone calls on my behalf. At first, I wasn’t sure if I should spend the money to hire an outside service for the Medicaid paperwork. It was one of the best decisions I’ve ever made. It was all handled efficiently, and made my life much less stressful than it could have been.\"</p>",
+              "text": "<p>\"Platinum was very helpful and efficient while going though the process of enrolling my mother in Medicaid. Melissa and Lori were never too busy to answer questions, return my phone calls or make phone calls on my behalf. At first, I wasn’t sure if I should spend the money to hire an outside service for the Medicaid paperwork. It was one of the best decisions I’ve ever made. It was all handled efficiently, and made my life much less stressful than it could have been.\"</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -478,7 +478,7 @@
             }
           },
           "title": "READ MORE TESTIMONIALS",
-          "text": "What more than 6,000 customers are saying about our services.",
+          "text": "Read what some of the more than 6,000 customers are saying about our services.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Testimonials.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_styles": {
             "H3": {
@@ -537,6 +537,9 @@
             ".iconbox": {
               "background-color": "#f2f2f2",
               "border-color": "#f2f2f2"
+            },
+            ".btn": {
+              "font-size": "18px"
             }
           },
           "_tags": [
@@ -884,7 +887,8 @@
             },
             ".lead P": {
               "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "20px"
             },
             ".btn": {
               "font-size": "18px"
@@ -1447,7 +1451,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             ".lead": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "20px"
             },
             ".btn": {
               "font-size": "18px"
@@ -1515,14 +1520,17 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
+              "background-color": "#41a85f",
+              "border-color": "#41a85f"
+            },
+            ".btn": {
+              "font-size": "18px"
             }
           },
           "_name": "features7",
           "_anchor": "features7-13",
           "_params": {
-            "iconsBgColor": "@primaryColor",
+            "iconsBgColor": "#41a85f",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1682,6 +1690,9 @@
             },
             ".mbr-section-subtitle": {
               "color": "#a0a0a0"
+            },
+            ".btn": {
+              "font-size": "18px"
             }
           },
           "_tags": [
@@ -1717,7 +1728,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
         },
         {
           "_tags": [
@@ -1886,7 +1897,8 @@
             },
             ".lead P": {
               "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "20px"
             },
             ".btn": {
               "font-size": "18px"
@@ -1952,6 +1964,9 @@
             ".iconbox": {
               "background-color": "#b8312f",
               "border-color": "#b8312f"
+            },
+            ".btn": {
+              "font-size": "20px"
             }
           },
           "_name": "features7",
@@ -2424,8 +2439,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-family": "'Open Sans', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-family": "'Open Sans Condensed', sans-serif"
             },
             ".link": {
               "font-size": "1.15rem"
@@ -2510,7 +2525,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             ".lead": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "20px"
             },
             ".btn": {
               "font-size": "18px"
@@ -3092,6 +3108,9 @@
             },
             ".btn": {
               "font-size": "18px"
+            },
+            ".lead P": {
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -3257,7 +3276,12 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            ".btn": {
+              "font-size": "18px"
+            }
+          }
         },
         {
           "_tags": [
@@ -3368,6 +3392,9 @@
             },
             ".mbr-section-subtitle": {
               "color": "#a0a0a0"
+            },
+            ".btn": {
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -3403,7 +3430,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
         },
         {
           "_tags": [

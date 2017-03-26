@@ -538,6 +538,9 @@ h6,
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
+#features4-n .btn {
+  font-size: 18px;
+}
 #form2-14 .mbr-section-title {
   color: #fff;
 }
@@ -639,6 +642,7 @@ h6,
 }
 #msg-box8-i .lead P {
   font-family: 'Merriweather', serif;
+  font-size: 20px;
 }
 #msg-box8-i .btn {
   font-size: 18px;
@@ -849,6 +853,7 @@ h6,
 }
 #msg-box8-z .lead {
   color: #ffffff;
+  font-size: 20px;
 }
 #msg-box8-z .btn {
   font-size: 18px;
@@ -864,8 +869,11 @@ h6,
   color: #bcbcbc;
 }
 #features7-13 .iconbox {
-  background-color: #2969b0;
-  border-color: #2969b0;
+  background-color: #41a85f;
+  border-color: #41a85f;
+}
+#features7-13 .btn {
+  font-size: 18px;
 }
 #buttons1-1p .btn {
   font-size: 18px;
@@ -876,6 +884,9 @@ h6,
 }
 #form2-11 .mbr-section-subtitle {
   color: #a0a0a0;
+}
+#form2-11 .btn {
+  font-size: 18px;
 }
 #contacts2-1e UL {
   color: #3d8eb9;
@@ -963,6 +974,7 @@ h6,
 }
 #msg-box8-t .lead P {
   font-family: 'Merriweather', serif;
+  font-size: 20px;
 }
 #msg-box8-t .btn {
   font-size: 18px;
@@ -977,6 +989,9 @@ h6,
 #features7-r .iconbox {
   background-color: #b8312f;
   border-color: #b8312f;
+}
+#features7-r .btn {
+  font-size: 20px;
 }
 #buttons1-1o .btn {
   font-size: 18px;
@@ -1040,7 +1055,7 @@ h6,
 #ext_menu-19 .link,
 #ext_menu-19 .dropdown-item {
   color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #ext_menu-19 .link {
   font-size: 1.15rem;
@@ -1098,6 +1113,7 @@ h6,
 }
 #msg-box8-1d .lead {
   color: #ffffff;
+  font-size: 20px;
 }
 #msg-box8-1d .btn {
   font-size: 18px;
@@ -1199,9 +1215,15 @@ h6,
 #msg-box8-1k .btn {
   font-size: 18px;
 }
+#msg-box8-1k .lead P {
+  font-size: 20px;
+}
 #header3-1j .mbr-section-title,
 #header3-1j .mbr-section-subtitle {
   text-align: center;
+}
+#features3-1i .btn {
+  font-size: 18px;
 }
 #content2-20 BLOCKQUOTE {
   font-size: 20px;
@@ -1214,6 +1236,9 @@ h6,
 }
 #form2-1n .mbr-section-subtitle {
   color: #a0a0a0;
+}
+#form2-1n .btn {
+  font-size: 20px;
 }
 #contacts2-1h UL {
   color: #3d8eb9;
