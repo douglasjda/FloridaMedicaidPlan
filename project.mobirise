@@ -26,7 +26,8 @@
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-94085540-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-94085540-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -433,6 +434,18 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            "P": {
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-size": "18px"
+            }
+          },
           "_anchor": "msg-box5-1t",
           "_params": {
             "imageSize": "62",
@@ -479,19 +492,7 @@
           },
           "title": "READ MORE TESTIMONIALS",
           "text": "Read what some of the more than 6,000 customers are saying about our services.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Testimonials.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            },
-            "P": {
-              "font-size": "18px"
-            },
-            ".btn": {
-              "font-size": "18px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Testimonials.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -721,6 +722,18 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "UL": {
+              "color": "#3d8eb9",
+              "font-size": "18px"
+            },
+            "STRONG": {
+              "font-size": "25px"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "contacts2-1e",
           "_params": {
             "paddingTop": 3,
@@ -741,19 +754,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@medicaidicp.com<br>\nPhone: 1-800-396-5145<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.platben.com\">Platinum Benefit Services</a></li><li><a href=\"http://www.medicaidicp.com\">Medicaid ICP</a></li></ul>",
-          "_styles": {
-            "UL": {
-              "color": "#3d8eb9",
-              "font-size": "18px"
-            },
-            "STRONG": {
-              "font-size": "25px"
-            },
-            "P": {
-              "font-size": "20px"
-            }
-          }
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.platben.com\">Platinum Benefit Services</a></li><li><a href=\"http://www.medicaidicp.com\">Medicaid ICP</a></li></ul>"
         }
       ]
     },
@@ -1060,6 +1061,18 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "UL": {
+              "color": "#3d8eb9",
+              "font-size": "18px"
+            },
+            "STRONG": {
+              "font-size": "25px"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "contacts2-1e",
           "_params": {
             "paddingTop": 3,
@@ -1080,19 +1093,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@medicaidicp.com<br>\nPhone: 1-800-396-5145<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.platben.com\">Platinum Benefit Services</a></li><li><a href=\"http://www.medicaidicp.com\">Medicaid ICP</a></li></ul>",
-          "_styles": {
-            "UL": {
-              "color": "#3d8eb9",
-              "font-size": "18px"
-            },
-            "STRONG": {
-              "font-size": "25px"
-            },
-            "P": {
-              "font-size": "20px"
-            }
-          }
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.platben.com\">Platinum Benefit Services</a></li><li><a href=\"http://www.medicaidicp.com\">Medicaid ICP</a></li></ul>"
         }
       ]
     },
@@ -1282,6 +1283,18 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "UL": {
+              "color": "#3d8eb9",
+              "font-size": "18px"
+            },
+            "STRONG": {
+              "font-size": "25px"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "contacts2-1h",
           "_params": {
             "paddingTop": 3,
@@ -1302,19 +1315,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@medicaidicp.com<br>\nPhone: 1-800-396-5145<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.platben.com\">Platinum Benefit Services</a></li><li><a href=\"http://www.medicaidicp.com\">Medicaid ICP</a></li></ul>",
-          "_styles": {
-            "UL": {
-              "color": "#3d8eb9",
-              "font-size": "18px"
-            },
-            "STRONG": {
-              "font-size": "25px"
-            },
-            "P": {
-              "font-size": "20px"
-            }
-          }
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.platben.com\">Platinum Benefit Services</a></li><li><a href=\"http://www.medicaidicp.com\">Medicaid ICP</a></li></ul>"
         }
       ]
     },
@@ -1738,6 +1739,18 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "UL": {
+              "color": "#3d8eb9",
+              "font-size": "18px"
+            },
+            "STRONG": {
+              "font-size": "25px"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "contacts2-1e",
           "_params": {
             "paddingTop": 3,
@@ -1758,19 +1771,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@medicaidicp.com<br>\nPhone: 1-800-396-5145<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.platben.com\">Platinum Benefit Services</a></li><li><a href=\"http://www.medicaidicp.com\">Medicaid ICP</a></li></ul>",
-          "_styles": {
-            "UL": {
-              "color": "#3d8eb9",
-              "font-size": "18px"
-            },
-            "STRONG": {
-              "font-size": "25px"
-            },
-            "P": {
-              "font-size": "20px"
-            }
-          }
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.platben.com\">Platinum Benefit Services</a></li><li><a href=\"http://www.medicaidicp.com\">Medicaid ICP</a></li></ul>"
         }
       ]
     },
@@ -2363,6 +2364,18 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "UL": {
+              "color": "#3d8eb9",
+              "font-size": "18px"
+            },
+            "STRONG": {
+              "font-size": "25px"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "contacts2-1e",
           "_params": {
             "paddingTop": 3,
@@ -2383,19 +2396,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@medicaidicp.com<br>\nPhone: 1-800-396-5145<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.platben.com\">Platinum Benefit Services</a></li><li><a href=\"http://www.medicaidicp.com\">Medicaid ICP</a></li></ul>",
-          "_styles": {
-            "UL": {
-              "color": "#3d8eb9",
-              "font-size": "18px"
-            },
-            "STRONG": {
-              "font-size": "25px"
-            },
-            "P": {
-              "font-size": "20px"
-            }
-          }
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.platben.com\">Platinum Benefit Services</a></li><li><a href=\"http://www.medicaidicp.com\">Medicaid ICP</a></li></ul>"
         }
       ]
     },
@@ -2949,6 +2950,18 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "UL": {
+              "color": "#3d8eb9",
+              "font-size": "18px"
+            },
+            "STRONG": {
+              "font-size": "25px"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "contacts2-1e",
           "_params": {
             "paddingTop": 3,
@@ -2969,19 +2982,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@medicaidicp.com<br>\nPhone: 1-800-396-5145<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.platben.com\">Platinum Benefit Services</a></li><li><a href=\"http://www.medicaidicp.com\">Medicaid ICP</a></li></ul>",
-          "_styles": {
-            "UL": {
-              "color": "#3d8eb9",
-              "font-size": "18px"
-            },
-            "STRONG": {
-              "font-size": "25px"
-            },
-            "P": {
-              "font-size": "20px"
-            }
-          }
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.platben.com\">Platinum Benefit Services</a></li><li><a href=\"http://www.medicaidicp.com\">Medicaid ICP</a></li></ul>"
         }
       ]
     },
@@ -3169,6 +3170,14 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            ".btn": {
+              "font-size": "18px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "features3-1i",
           "_params": {
             "paddingTop": "0",
@@ -3279,33 +3288,25 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".btn": {
-              "font-size": "18px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "content2-20",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "font-size": "20px"
-            }
-          }
+          "text": "<blockquote><p>Many unforeseen traps can be created by improper \"Crisis Planning\" and/or application processing. Traps such as excessive tax liability, unnecessary probate issues, ineligibility due to the community spouse predeceasing the applicant, missed deadlines, delayed approval due to the inability to properly convey Medicaid Policy to DCF staff, among many others. &nbsp;</p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">With more than 6,000 cases successfully processed by Platinum Benefit Services, Inc., and, with our Florida Medicaid Plan \"Process\", you can be assured that we will execute YOUR complete, concise, Medicaid plan and quickly navigate the application through the \"Department of Children and Families\" bureaucracy to obtain \"APPROVAL\" status.</span></p></blockquote>"
         },
         {
           "_tags": [
@@ -3443,6 +3444,18 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "UL": {
+              "color": "#3d8eb9",
+              "font-size": "18px"
+            },
+            "STRONG": {
+              "font-size": "25px"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "contacts2-1h",
           "_params": {
             "paddingTop": 3,
@@ -3463,19 +3476,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n2920 Drane Field Road<br>Lakeland, Florida 33811<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@medicaidicp.com<br>\nPhone: 1-800-396-5145<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.platben.com\">Platinum Benefit Services</a></li><li><a href=\"http://www.medicaidicp.com\">Medicaid ICP</a></li></ul>",
-          "_styles": {
-            "UL": {
-              "color": "#3d8eb9",
-              "font-size": "18px"
-            },
-            "STRONG": {
-              "font-size": "25px"
-            },
-            "P": {
-              "font-size": "20px"
-            }
-          }
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.platben.com\">Platinum Benefit Services</a></li><li><a href=\"http://www.medicaidicp.com\">Medicaid ICP</a></li></ul>"
         }
       ]
     }
