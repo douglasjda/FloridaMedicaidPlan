@@ -1,0 +1,26 @@
+{
+  "demoMode": {
+    "enable": false,
+    "message": "This feature is disabled in Demo Mode.",
+    "submitTitle": "Buy now",
+    "link": ""
+  },
+  "project": "lawyer",
+  "codeEditor": {
+    "autoSave": true,
+    "layout": "tabs", 
+    "theme": "monokai",
+    "fontSize": 14,
+    "height": 400,
+    "indentWithTab": false,
+    "options": {
+      "enableBasicAutocompletion": false,
+      "enableSnippets": false,
+      "enableLiveAutocompletion": false,
+      "tabSize": 2
+    }
+  },
+  "generalSettings": {
+    "mode": 1
+  }
+}

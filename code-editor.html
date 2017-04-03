@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Site Title-->
+    <title>Code Editor</title>
+    <meta charset="utf-8">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
+    <!-- Stylesheets-->
+    <link rel="stylesheet" href="css/designer.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <style>
+        body{
+            margin: 0;
+            overflow-y: hidden;
+            background: #0c0c0c;
+        }
+    </style>
+
+</head>
+<body>
+
+<div class="app-loader" id="code-editor-loader">
+    <div class="app-loader-body">
+        <div class="app-loader-title">
+            We are loading code editor. Please wait...
+        </div>
+        <div class="app-loader-progress"></div>
+    </div>
+</div>
+
+<div id="code-editor" class="code-editor">
+
+    <div id="code-editor-top-panel" class="code-editor-top-panel">
+        <ul id="layout-select" class="code-editor-layouts">
+            <li><button id="tabs" class="button button-vertical"><span class="button-icon mdi mdi-tab"></span></button></li>
+            <li><button id="split-vertical" class="button button-vertical"><span class="button-icon mdi mdi-view-column"></span></button></li>
+            <li><button id="split-multiple" class="button button-vertical"><span class="button-icon mdi mdi-view-quilt"></span></button></li>
+        </ul>
+
+        <ul class="code-editor-tab-list">
+            <li><button data-target="html" class="active">html</button></li>
+            <li><button data-target="css">css</button></li>
+            <li><button data-target="js">js</button></li>
+        </ul>
+
+        <ul class="code-editor-top-panel-right">
+            <li>
+                <div class="checkbox-inline">
+                  <input id="code-editor-autosave" class="checkbox" type="checkbox" checked />
+                  <label for="code-editor-autosave">Autosave</label>
+
+                </div>
+            </li>
+            <li><button href="#" class="button button-vertical" id="popup-button"><span class="button-icon mdi mdi-arrange-bring-forward"></span></button></li>
+            <li><button href="#" class="button button-vertical" id="close" ><span class="button-icon mdi mdi-close"></span></button></li>
+        </ul>
+    </div>
+
+    <div class="code-editor-content">
+        <div id="html" class="tab active">
+
+                <p class="code-editor-name">
+                    <button id="code-editor-settings-html" class="code-editor-settings mdi mdi-settings" style="opacity: 0"></button>
+                    HTML
+                </p>
+
+            <div id="html-editor" class="html-editor"></div>
+        </div>
+        <div class="code-editor-resizer code-editor-resizer-first" id="resizer-1"></div>
+        <div id="css" class="tab">
+            <div class="dropdown" id="css-dropdown">
+              <p class="code-editor-name">
+                  <button id="code-editor-settings-css" class="code-editor-settings mdi mdi-settings"></button>
+                  <span id="css-title">css</span>
+              </p>
+              <ul class="dropdown-body" id="css-dropdown-body"></ul>
+            </div>
+            <div id="css-editor" class="css-editor"> </div>
+        </div>
+        <div class="code-editor-resizer code-editor-resizer-second" id="resizer-2"></div>
+        <div id="js" class="tab">
+          <div class="dropdown" id="js-dropdown">
+              <p class="code-editor-name">
+                  <button id="code-editor-settings-js" class="code-editor-settings mdi mdi-settings"></button>
+                  <span id="js-title">js</span>
+              </p>
+            <ul class="dropdown-body" id="js-dropdown-body"></ul>
+            </div>
+            <div id="js-editor" class="js-editor"> </div>
+        </div>
+    </div>
+</div>
+
+<!-- Additional Scripts -->
+
+<!-- Emmet -->
+<script src="js/code-editor/emmet.js"></script>
+
+<script src="js/code-editor/ace/ace.js"></script>
+<script src="js/code-editor/ace/ext-emmet.js"></script>
+<script src="js/code-editor/ace/ext-language_tools.js"></script>
+<script src="js/code-editor/codeEditor.js"></script>
+
+</body>
+</html>
+
